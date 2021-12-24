@@ -40,12 +40,10 @@ run:
 run:
 
 ```
->> python chatbot_server_with_security.py      
->> python chatbot_client_with_security.py  
+>> python server.py      
+>> python client.py   
 ```
-Enter username</br>
-
-* you can run many users </br>
+Enter username
 
 
 ![chatbot](./chatbot.png)
@@ -53,6 +51,11 @@ Enter username</br>
 ## problem:
 we have a problem in timeout function,It never works, we tried a lot.
 
-## Video_Link:
-https://drive.google.com/drive/u/0/folders/14CuLyroD9jiBMUXeQPjskD0ewdYhqAV9
 
+
+
+
+
+## [Link to Video](https://drive.google.com/drive/folders/1HtDZIkOgGecknsO6Z0xJd_9TViC4ZqFi?usp=sharing)
+
+## [Link to Repo](https://github.com/Noura-Mahmoud/Socket_programming_project)
